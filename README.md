@@ -17,7 +17,7 @@ In computing, `wc` (short for **w**ord **c**ount) is a command in Unix and Unix-
     - Just like how `wc -m <name_of_the_file>` returns number of characters in the file. `wcpy -m <name_of_the_file>` should be able to print the character counts in the file.
 
 
-#### Unix Philosophy
+# Unix Philosophy
 
 1. Make each program **do one thing well**. To do a new job, build afresh rather than complicate old programs by adding new "features".
 2. Expect the **output of every program to become the input to another**, as yet unknown, program. Don't clutter output with extraneous information. Avoid stringently columnar or binary input formats. Don't insist on interactive input.
