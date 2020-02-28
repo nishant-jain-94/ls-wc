@@ -13,7 +13,7 @@ In computing, `wc` (short for **w**ord **c**ount) is a command in Unix and Unix-
 
 ### Exercise
 1. Implement a `wc` command in **python** without using the `wc` command. Name this tool to be called as `wcpy`. To be more precise it should be able to do the following things:
-    - Just like how `wc -l <name_of_the_file>` returns number of lines in the file. `wcpy -l <name_of_file>` should be able to list all lines in the file.
+    - Just like how `wc -l <name_of_the_file>` returns number of lines in the file. `wcpy -l <name_of_file>` should be able to list number of lines in the file.
     - Just like how `wc -m <name_of_the_file>` returns number of characters in the file. `wcpy -m <name_of_the_file>` should be able to print the character counts in the file.
 
 
